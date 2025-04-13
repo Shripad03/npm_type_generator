@@ -1,3 +1,5 @@
+https://www.npmjs.com/package/@shripad1993/type-generator
+
 # TypeScript Type Generator
 
 An Angular library for automatically generating TypeScript types from your project's source code. This library analyzes your codebase and generates type definitions for variables, objects, classes, and interfaces.
